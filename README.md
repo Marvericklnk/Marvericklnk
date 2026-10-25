@@ -19,18 +19,17 @@ I'm learning full-stack development through GoMyCode, starting with strong found
 
 | Project | What it explores | Code |
 | --- | --- | --- |
-| **The Brown Print** | Responsive newsletter UI, validated form demo, local Express backend and five reconstructed learning stages. | [Live demo](https://marvericklnk.github.io/the-brown-print/) · [Source](https://github.com/Marvericklnk/the-brown-print) |
 | **Daylist — Task Tracker** | Adding, completing and filtering tasks; saving them in browser storage with plain JavaScript. | [View repository](https://github.com/Marvericklnk/todo-app-checkpoint) |
 | **React Product Card** | Reusable React components, a shared product object, React Bootstrap and conditional rendering. | [View repository](https://github.com/Marvericklnk/react-components-checkpoint) |
 | **Responsive Pricing Cards** | Refactoring HTML and CSS, responsive layouts, keyboard focus and interactive plan buttons. | [View repository](https://github.com/Marvericklnk/pricing-card-checkpoint) |
 
 These are learning projects. Their READMEs explain setup, features and limitations. Some were created with AI assistance, as documented in the individual repositories.
 
-## Latest showcase
+## On my workbench
 
-**The Brown Print** now includes [desktop, tablet and phone screenshots](https://github.com/Marvericklnk/the-brown-print/tree/main/media), a [40-second captioned walkthrough](https://github.com/Marvericklnk/the-brown-print/blob/main/media/walkthrough.mp4) and a [stage-by-stage implementation guide](https://github.com/Marvericklnk/the-brown-print#development-layer-by-layer).
+**The Brown Print** — a newsletter-style website I'm developing with HTML, CSS and JavaScript, including signup validation and a thank-you page.
 
-The public demo does not collect subscriptions. The repository includes a separate local signup server.
+I'm working toward connecting frontend interfaces to reliable backend services as my training progresses.
 
 ## How I document progress
 
